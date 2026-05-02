@@ -51,7 +51,7 @@ Smart-Task-Manager/
 
 ## 🌐 Live Demo
 
-👉 [Click Here to View Live](https://your-netlify-link.netlify.app)
+👉 [Click Here to View Live](https://taskmaster-ajit.netlify.app/)
 
 ---
 
